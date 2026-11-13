@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "devops/Day1.md",
+                "file": "mlops/Day1.md",
                 "mode": "source",
                 "source": false
               },
@@ -99,7 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "devops/Day1.md",
+                "file": "mlops/Day1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "devops/Day1.md",
+                "file": "mlops/Day1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "devops/Day1.md",
+                "file": "mlops/Day1.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -190,8 +190,10 @@
   },
   "active": "736dc13d6012d5f8",
   "lastOpenFiles": [
-    "Untitled.md",
     "devops/Day1.md",
+    "mlops/Day1.md",
+    "mlops",
+    "Untitled.md",
     "devops",
     "Welcome.md"
   ]
